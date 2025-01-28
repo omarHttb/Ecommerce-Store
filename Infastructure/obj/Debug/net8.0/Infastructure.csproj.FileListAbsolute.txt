@@ -1,0 +1,15 @@
+E:\skinet\infastructure\bin\Debug\net8.0\Infastructure.deps.json
+E:\skinet\infastructure\bin\Debug\net8.0\Infastructure.dll
+E:\skinet\infastructure\bin\Debug\net8.0\Infastructure.pdb
+E:\skinet\infastructure\bin\Debug\net8.0\Core.dll
+E:\skinet\infastructure\bin\Debug\net8.0\Core.pdb
+E:\skinet\infastructure\obj\Debug\net8.0\Infastructure.csproj.AssemblyReference.cache
+E:\skinet\infastructure\obj\Debug\net8.0\Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\skinet\infastructure\obj\Debug\net8.0\Infastructure.AssemblyInfoInputs.cache
+E:\skinet\infastructure\obj\Debug\net8.0\Infastructure.AssemblyInfo.cs
+E:\skinet\infastructure\obj\Debug\net8.0\Infastructure.csproj.CoreCompileInputs.cache
+E:\skinet\infastructure\obj\Debug\net8.0\Infastru.CD45A3C5.Up2Date
+E:\skinet\infastructure\obj\Debug\net8.0\Infastructure.dll
+E:\skinet\infastructure\obj\Debug\net8.0\refint\Infastructure.dll
+E:\skinet\infastructure\obj\Debug\net8.0\Infastructure.pdb
+E:\skinet\infastructure\obj\Debug\net8.0\ref\Infastructure.dll
