@@ -48,7 +48,7 @@ namespace Infastructure.Migrations
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18,2)");
 
-                    b.Property<int>("Quantity")
+                    b.Property<int>("QuantityInStock")
                         .HasColumnType("int");
 
                     b.Property<string>("Type")

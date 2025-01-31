@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Infastructure.Migrations
 {
     [DbContext(typeof(StoreContext))]
-    [Migration("20250128103017_initialCreate")]
+    [Migration("20250130110252_initialCreate")]
     partial class initialCreate
     {
         /// <inheritdoc />
@@ -51,7 +51,7 @@ namespace Infastructure.Migrations
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18,2)");
 
-                    b.Property<int>("Quantity")
+                    b.Property<int>("QuantityInStock")
                         .HasColumnType("int");
 
                     b.Property<string>("Type")

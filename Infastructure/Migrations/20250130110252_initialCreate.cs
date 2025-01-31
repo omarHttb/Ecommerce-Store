@@ -22,7 +22,7 @@ namespace Infastructure.Migrations
                     PictureUrl = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Type = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Brand = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Quantity = table.Column<int>(type: "int", nullable: false)
+                    QuantityInStock = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
