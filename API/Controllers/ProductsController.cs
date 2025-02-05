@@ -1,5 +1,6 @@
 using Core.entites;
 using Core.Interfaces;
+using Core.Specification;
 using Infastructure.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -11,7 +12,7 @@ namespace API.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
-public class ProductsController(IProductRepository repository) : ControllerBase
+public class ProductsController(IGenericRepository<Product> repository) : ControllerBase
 {
   
 
@@ -19,14 +20,17 @@ public class ProductsController(IProductRepository repository) : ControllerBase
  public async Task<ActionResult<IEnumerable<Product>>> GetProducts(string? brand,string? type,
   string? sort )
  {
+    var spec = new ProductSpecification(brand,type,sort);
 
-    return Ok(await repository.GetProductsAsync(brand,type,sort));
+    var products = await repository.ListAsync(spec);
+
+    return Ok(products);
  }
 
  [HttpGet("{id:int}")]
  public async Task<ActionResult<Product>> GetProduct(int id)
  {
-        var product = await repository.GetProductByIdAsync(id);
+        var product = await repository.GetByIdAsync(id);
 
         if (product == null)
         {
@@ -39,8 +43,8 @@ public class ProductsController(IProductRepository repository) : ControllerBase
 [HttpPost]
     public async Task<ActionResult<Product>> CreateProduct(Product product)
     {
-        repository.AddProduct(product);
-        if(!await repository.SaveChangesAsync())
+        repository.Add(product);
+        if(!await repository.SaveAllAsync())
         {
             return BadRequest("failed to add product");
         }
@@ -51,13 +55,13 @@ public class ProductsController(IProductRepository repository) : ControllerBase
 [HttpPut("{id:int}")]
     public async Task<ActionResult<Product>> UpdateProduct(int id, Product product)
     {
-        if (product.Id != id || !repository.ProductExists(id) )
+        if (product.Id != id || !repository.Exists(id) )
         {
             return BadRequest();
         }
 
-        repository.UpdateProduct(product);
-      if(!await repository.SaveChangesAsync())
+        repository.Update(product);
+      if(!await repository.SaveAllAsync())
         {
             return BadRequest("failed to Update product");
         }
@@ -67,16 +71,16 @@ public class ProductsController(IProductRepository repository) : ControllerBase
     [HttpDelete("{id:int}")]
     public async Task <ActionResult<Product>> DeleteProduct(int id)
     {
-        var product = await repository.GetProductByIdAsync(id);
+        var product = await repository.GetByIdAsync(id);
 
         if (product == null)
         {
             return NotFound();
         }
 
-        repository.DeleteProduct(product);
+        repository.Remove(product);
 
-      if(!await repository.SaveChangesAsync())
+      if(!await repository.SaveAllAsync())
         {
             return BadRequest("failed to Update product");
         }
@@ -87,13 +91,17 @@ public class ProductsController(IProductRepository repository) : ControllerBase
     [HttpGet("brands")]
     public async Task<ActionResult<IReadOnlyList<string>>> GetProductBrands()
     {
-        return Ok(await repository.GetBrandsAsync());
+        var spec = new BrandListSpecification();
+
+        return Ok(await repository.ListAsync(spec));
     }
 
         [HttpGet("types")]
     public async Task<ActionResult<IReadOnlyList<string>>> GetTypesAsync()
     {
-        return Ok(await repository.GetTypesAsync());
+            var spec = new TypeListSpecification();
+
+        return Ok(await repository.ListAsync(spec));
     }
 
 }
