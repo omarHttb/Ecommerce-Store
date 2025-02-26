@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "E:\\WebEcommerce\\Infastructure\\Infastructure.csproj": {}
+    "E:\\WebEcommerce\\infastructure\\Infastructure.csproj": {}
   },
   "projects": {
     "E:\\WebEcommerce\\Core\\Core.csproj": {
@@ -64,14 +64,14 @@
         }
       }
     },
-    "E:\\WebEcommerce\\Infastructure\\Infastructure.csproj": {
+    "E:\\WebEcommerce\\infastructure\\Infastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WebEcommerce\\Infastructure\\Infastructure.csproj",
+        "projectUniqueName": "E:\\WebEcommerce\\infastructure\\Infastructure.csproj",
         "projectName": "Infastructure",
-        "projectPath": "E:\\WebEcommerce\\Infastructure\\Infastructure.csproj",
+        "projectPath": "E:\\WebEcommerce\\infastructure\\Infastructure.csproj",
         "packagesPath": "C:\\Users\\omar hattab\\.nuget\\packages\\",
-        "outputPath": "E:\\WebEcommerce\\Infastructure\\obj\\",
+        "outputPath": "E:\\WebEcommerce\\infastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omar hattab\\AppData\\Roaming\\NuGet\\NuGet.Config",

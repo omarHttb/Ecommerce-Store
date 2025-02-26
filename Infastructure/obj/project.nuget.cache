@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EpBfyV6MKMUYKILTuR9vQqkk1lKoPdhivFQi4I0jmuOEH5vRtX3cwTturuTLeqb+FCzr0kbVDa7SlM0ziFwuwA==",
+  "dgSpecHash": "7ye+JOcz/sHTQp6lFWR5KQevgMFnDBv7Q/rM6jivtZR50hcVZjBjtcSeDmuz7cI1jOKgBi6w5/WvxVKSB0tz4g==",
   "success": true,
-  "projectFilePath": "E:\\WebEcommerce\\Infastructure\\Infastructure.csproj",
+  "projectFilePath": "E:\\WebEcommerce\\infastructure\\Infastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omar hattab\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\omar hattab\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
