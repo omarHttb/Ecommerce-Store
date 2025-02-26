@@ -30,6 +30,12 @@ public class SpecificationEvaluator<T>where T: BaseEntity
             query = query.Distinct();
         }
 
+              if(specification.isPagingEnabled)
+        {
+            query = query.Skip(specification.Skip).Take(specification.Take);
+        }
+
+
         return query;
 
     }

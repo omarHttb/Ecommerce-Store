@@ -2769,11 +2769,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\skinet\\infastructure\\Infastructure.csproj",
+      "projectUniqueName": "E:\\WebEcommerce\\infastructure\\Infastructure.csproj",
       "projectName": "Infastructure",
-      "projectPath": "E:\\skinet\\infastructure\\Infastructure.csproj",
+      "projectPath": "E:\\WebEcommerce\\infastructure\\Infastructure.csproj",
       "packagesPath": "C:\\Users\\omar hattab\\.nuget\\packages\\",
-      "outputPath": "E:\\skinet\\infastructure\\obj\\",
+      "outputPath": "E:\\WebEcommerce\\infastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\omar hattab\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2790,8 +2790,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\skinet\\Core\\Core.csproj": {
-              "projectPath": "E:\\skinet\\Core\\Core.csproj"
+            "E:\\WebEcommerce\\Core\\Core.csproj": {
+              "projectPath": "E:\\WebEcommerce\\Core\\Core.csproj"
             }
           }
         }

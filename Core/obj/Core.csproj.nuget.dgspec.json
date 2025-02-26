@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\skinet\\Core\\Core.csproj": {}
+    "E:\\WebEcommerce\\Core\\Core.csproj": {}
   },
   "projects": {
-    "E:\\skinet\\Core\\Core.csproj": {
+    "E:\\WebEcommerce\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\skinet\\Core\\Core.csproj",
+        "projectUniqueName": "E:\\WebEcommerce\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "E:\\skinet\\Core\\Core.csproj",
+        "projectPath": "E:\\WebEcommerce\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\omar hattab\\.nuget\\packages\\",
-        "outputPath": "E:\\skinet\\Core\\obj\\",
+        "outputPath": "E:\\WebEcommerce\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omar hattab\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aFUUKHRCTB1ZQOdt2wDF4UFSTl0+WgVrYEbt2loxXEgO227HaKuV24D89kWD3fvIqZpSKM4dHHc4hGWEd65esQ==",
+  "dgSpecHash": "1bdv3YhA0AhsgiDJV+ZOXNaDv+nxgkzIpZMqjew3WIe+26kHAGYyzk8wV7Rewe1fs7DBHHsqT2DMYLI9FKu54g==",
   "success": true,
-  "projectFilePath": "E:\\skinet\\Core\\Core.csproj",
+  "projectFilePath": "E:\\WebEcommerce\\Core\\Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

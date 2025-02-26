@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\skinet\\Infastructure\\Infastructure.csproj": {}
+    "E:\\WebEcommerce\\Infastructure\\Infastructure.csproj": {}
   },
   "projects": {
-    "E:\\skinet\\Core\\Core.csproj": {
+    "E:\\WebEcommerce\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\skinet\\Core\\Core.csproj",
+        "projectUniqueName": "E:\\WebEcommerce\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "E:\\skinet\\Core\\Core.csproj",
+        "projectPath": "E:\\WebEcommerce\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\omar hattab\\.nuget\\packages\\",
-        "outputPath": "E:\\skinet\\Core\\obj\\",
+        "outputPath": "E:\\WebEcommerce\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omar hattab\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "E:\\skinet\\Infastructure\\Infastructure.csproj": {
+    "E:\\WebEcommerce\\Infastructure\\Infastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\skinet\\Infastructure\\Infastructure.csproj",
+        "projectUniqueName": "E:\\WebEcommerce\\Infastructure\\Infastructure.csproj",
         "projectName": "Infastructure",
-        "projectPath": "E:\\skinet\\Infastructure\\Infastructure.csproj",
+        "projectPath": "E:\\WebEcommerce\\Infastructure\\Infastructure.csproj",
         "packagesPath": "C:\\Users\\omar hattab\\.nuget\\packages\\",
-        "outputPath": "E:\\skinet\\Infastructure\\obj\\",
+        "outputPath": "E:\\WebEcommerce\\Infastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omar hattab\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\skinet\\Core\\Core.csproj": {
-                "projectPath": "E:\\skinet\\Core\\Core.csproj"
+              "E:\\WebEcommerce\\Core\\Core.csproj": {
+                "projectPath": "E:\\WebEcommerce\\Core\\Core.csproj"
               }
             }
           }

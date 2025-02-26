@@ -1,0 +1,12 @@
+E:\WebEcommerce\Core\bin\Debug\net8.0\BuisnessLogic.deps.json
+E:\WebEcommerce\Core\bin\Debug\net8.0\BuisnessLogic.dll
+E:\WebEcommerce\Core\bin\Debug\net8.0\BuisnessLogic.pdb
+E:\WebEcommerce\Core\obj\Debug\net8.0\BuisnessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebEcommerce\Core\obj\Debug\net8.0\BuisnessLogic.AssemblyInfoInputs.cache
+E:\WebEcommerce\Core\obj\Debug\net8.0\BuisnessLogic.AssemblyInfo.cs
+E:\WebEcommerce\Core\obj\Debug\net8.0\BuisnessLogic.csproj.CoreCompileInputs.cache
+E:\WebEcommerce\Core\obj\Debug\net8.0\BuisnessLogic.sourcelink.json
+E:\WebEcommerce\Core\obj\Debug\net8.0\BuisnessLogic.dll
+E:\WebEcommerce\Core\obj\Debug\net8.0\refint\BuisnessLogic.dll
+E:\WebEcommerce\Core\obj\Debug\net8.0\BuisnessLogic.pdb
+E:\WebEcommerce\Core\obj\Debug\net8.0\ref\BuisnessLogic.dll

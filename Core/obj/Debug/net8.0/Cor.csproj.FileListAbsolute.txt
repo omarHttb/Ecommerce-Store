@@ -1,0 +1,12 @@
+E:\WebEcommerce\Core\bin\Debug\net8.0\Cor.deps.json
+E:\WebEcommerce\Core\bin\Debug\net8.0\Cor.dll
+E:\WebEcommerce\Core\bin\Debug\net8.0\Cor.pdb
+E:\WebEcommerce\Core\obj\Debug\net8.0\Cor.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebEcommerce\Core\obj\Debug\net8.0\Cor.AssemblyInfoInputs.cache
+E:\WebEcommerce\Core\obj\Debug\net8.0\Cor.AssemblyInfo.cs
+E:\WebEcommerce\Core\obj\Debug\net8.0\Cor.csproj.CoreCompileInputs.cache
+E:\WebEcommerce\Core\obj\Debug\net8.0\Cor.sourcelink.json
+E:\WebEcommerce\Core\obj\Debug\net8.0\Cor.dll
+E:\WebEcommerce\Core\obj\Debug\net8.0\refint\Cor.dll
+E:\WebEcommerce\Core\obj\Debug\net8.0\Cor.pdb
+E:\WebEcommerce\Core\obj\Debug\net8.0\ref\Cor.dll

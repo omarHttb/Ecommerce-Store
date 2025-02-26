@@ -10,3 +10,15 @@ E:\skinet\Core\obj\Debug\net8.0\refint\Core.dll
 E:\skinet\Core\obj\Debug\net8.0\Core.pdb
 E:\skinet\Core\obj\Debug\net8.0\ref\Core.dll
 E:\skinet\Core\obj\Debug\net8.0\Core.sourcelink.json
+E:\WebEcommerce\Core\bin\Debug\net8.0\Core.deps.json
+E:\WebEcommerce\Core\bin\Debug\net8.0\Core.dll
+E:\WebEcommerce\Core\bin\Debug\net8.0\Core.pdb
+E:\WebEcommerce\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebEcommerce\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+E:\WebEcommerce\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+E:\WebEcommerce\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+E:\WebEcommerce\Core\obj\Debug\net8.0\Core.sourcelink.json
+E:\WebEcommerce\Core\obj\Debug\net8.0\Core.dll
+E:\WebEcommerce\Core\obj\Debug\net8.0\refint\Core.dll
+E:\WebEcommerce\Core\obj\Debug\net8.0\Core.pdb
+E:\WebEcommerce\Core\obj\Debug\net8.0\ref\Core.dll
