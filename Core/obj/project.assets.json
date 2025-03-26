@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WebEcommerce\\Core\\Core.csproj",
+      "projectUniqueName": "E:\\ecommerceSite\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "E:\\WebEcommerce\\Core\\Core.csproj",
+      "projectPath": "E:\\ecommerceSite\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\omar hattab\\.nuget\\packages\\",
-      "outputPath": "E:\\WebEcommerce\\Core\\obj\\",
+      "outputPath": "E:\\ecommerceSite\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\omar hattab\\AppData\\Roaming\\NuGet\\NuGet.Config",

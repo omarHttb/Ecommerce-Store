@@ -22,3 +22,15 @@ E:\WebEcommerce\Core\obj\Debug\net8.0\Core.dll
 E:\WebEcommerce\Core\obj\Debug\net8.0\refint\Core.dll
 E:\WebEcommerce\Core\obj\Debug\net8.0\Core.pdb
 E:\WebEcommerce\Core\obj\Debug\net8.0\ref\Core.dll
+E:\ecommerceSite\Core\bin\Debug\net8.0\Core.deps.json
+E:\ecommerceSite\Core\bin\Debug\net8.0\Core.dll
+E:\ecommerceSite\Core\bin\Debug\net8.0\Core.pdb
+E:\ecommerceSite\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\ecommerceSite\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+E:\ecommerceSite\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+E:\ecommerceSite\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+E:\ecommerceSite\Core\obj\Debug\net8.0\Core.sourcelink.json
+E:\ecommerceSite\Core\obj\Debug\net8.0\Core.dll
+E:\ecommerceSite\Core\obj\Debug\net8.0\refint\Core.dll
+E:\ecommerceSite\Core\obj\Debug\net8.0\Core.pdb
+E:\ecommerceSite\Core\obj\Debug\net8.0\ref\Core.dll

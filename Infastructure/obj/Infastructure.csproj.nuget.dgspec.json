@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\WebEcommerce\\Infastructure\\Infastructure.csproj": {}
+    "E:\\ecommerceSite\\infastructure\\Infastructure.csproj": {}
   },
   "projects": {
-    "E:\\WebEcommerce\\Core\\Core.csproj": {
+    "E:\\ecommerceSite\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WebEcommerce\\Core\\Core.csproj",
+        "projectUniqueName": "E:\\ecommerceSite\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "E:\\WebEcommerce\\Core\\Core.csproj",
+        "projectPath": "E:\\ecommerceSite\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\omar hattab\\.nuget\\packages\\",
-        "outputPath": "E:\\WebEcommerce\\Core\\obj\\",
+        "outputPath": "E:\\ecommerceSite\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omar hattab\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "E:\\WebEcommerce\\Infastructure\\Infastructure.csproj": {
+    "E:\\ecommerceSite\\infastructure\\Infastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WebEcommerce\\Infastructure\\Infastructure.csproj",
+        "projectUniqueName": "E:\\ecommerceSite\\infastructure\\Infastructure.csproj",
         "projectName": "Infastructure",
-        "projectPath": "E:\\WebEcommerce\\Infastructure\\Infastructure.csproj",
+        "projectPath": "E:\\ecommerceSite\\infastructure\\Infastructure.csproj",
         "packagesPath": "C:\\Users\\omar hattab\\.nuget\\packages\\",
-        "outputPath": "E:\\WebEcommerce\\Infastructure\\obj\\",
+        "outputPath": "E:\\ecommerceSite\\infastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omar hattab\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\WebEcommerce\\Core\\Core.csproj": {
-                "projectPath": "E:\\WebEcommerce\\Core\\Core.csproj"
+              "E:\\ecommerceSite\\Core\\Core.csproj": {
+                "projectPath": "E:\\ecommerceSite\\Core\\Core.csproj"
               }
             }
           }

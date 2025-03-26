@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1bdv3YhA0AhsgiDJV+ZOXNaDv+nxgkzIpZMqjew3WIe+26kHAGYyzk8wV7Rewe1fs7DBHHsqT2DMYLI9FKu54g==",
+  "dgSpecHash": "nbg5AnvkBI9vi861HeRgQgZd5moPBie9TDMPF++QFdxW4UjSCSDTaZmU8BR6iE7lElsdWHfPU2G+7wjokrzuzg==",
   "success": true,
-  "projectFilePath": "E:\\WebEcommerce\\Core\\Core.csproj",
+  "projectFilePath": "E:\\ecommerceSite\\Core\\Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
